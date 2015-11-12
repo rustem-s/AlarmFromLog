@@ -1,0 +1,5 @@
+06/25/14 02:26:07 WARNING main: Alarm: event=2 node=2045 device=2: doorclo
+06/25/14 02:26:11 INFO    AlarmSaver: Alarm saved: node=2045 device=2 event=2; doorop
+06/25/14 02:26:11 WARNING GSMmasterInterface: Alarm: event=2 node=2045 device=2: doorop
+06/27/14 02:26:34 WARNING GSMmasterInterface: Alarm: event=2 node=2045 device=2: doorop
+06/30/14 02:25:02 WARNING GSMmasterInterface: Alarm: event=2 node=2045 device=2: doorop
